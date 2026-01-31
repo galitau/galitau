@@ -1,6 +1,8 @@
 ## About
 👋 Heyo, I'm Galit. I work on building AI-driven health tech, mobile productivity tools, and interactive web applications with a focus on Python, C++, and JavaScript.
 
+🌐 Visit my portfolio here: https://galit-portfolio.vercel.app/
+
 - 📍 Location: Toronto, ON
 - 🎓 Education: University of Waterloo, Biomedical Engineering
 - 📅 Hacking Since: 2023
