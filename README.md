@@ -6,8 +6,8 @@
 - 📅 Hacking Since: 2023
 
 ## Featured Projects
-- Pubmed RAG Researcher — An AI-powered research assistant that automates biomedical literature reviews. Uses Retrieval-Augmented Generation (RAG) to fetch live PubMed data and generate summaries with Google Gemini. (Python) — github.com/galitau/Pubmed-RAG
-- Timesense — A data-driven Android productivity tool that enforces focus and improves time-estimation accuracy through system-level distraction blocking. (Java) — github.com/galitau/TimeSense
+- Pubmed RAG Researcher — An AI-powered research assistant that automates biomedical literature reviews. Uses Retrieval-Augmented Generation (RAG) to fetch live PubMed data and generate summaries with Google Gemini. (Python) — https://github.com/galitau/Pubmed-RAG
+- Timesense — A data-driven Android productivity tool that enforces focus and improves time-estimation accuracy through system-level distraction blocking. (Java) — https://github.com/galitau/TimeSense
 - BrickbyBrick — A shared economy platform for homeownership that solves the down payment crisis. We enable aspiring homeowners to crowdfund their initial capital while retaining a controlling 51% stake, giving investors access to liquid real estate equity without the hassle of property management. (HTML, Javascript, Python) — https://github.com/galitau/BrickbyBrick
 
 ## Tech & Interests
