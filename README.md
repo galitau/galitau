@@ -1,6 +1,4 @@
 <!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
 👋 Heyo, I'm Galit. I work on building AI-driven health tech, mobile productivity tools, and interactive web applications with a focus on Python, C++, and JavaScript.
@@ -10,14 +8,14 @@
 - 📅 Hacking Since: 2023
 
 ## Featured Projects
-- 🎲 Pubmed RAG Researcher — An AI-powered research assistant that automates biomedical literature reviews. Uses Retrieval-Augmented Generation (RAG) to fetch live PubMed data and generate summaries with Google Gemini. ([Python]) — https://github.com/galitau/Pubmed-RAG
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- Pubmed RAG Researcher — An AI-powered research assistant that automates biomedical literature reviews. Uses Retrieval-Augmented Generation (RAG) to fetch live PubMed data and generate summaries with Google Gemini. (Python) — github.com/galitau/Pubmed-RAG
+- Timesense — A data-driven Android productivity tool that enforces focus and improves time-estimation accuracy through system-level distraction blocking. (Java) — github.com/galitau/TimeSense
+- BrickbyBrick — A shared economy platform for homeownership that solves the down payment crisis. We enable aspiring homeowners to crowdfund their initial capital while retaining a controlling 51% stake, giving investors access to liquid real estate equity without the hassle of property management. (HTML, Javascript, Python) — https://github.com/galitau/BrickbyBrick
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+- 🧰 Languages: Python, C++, Java, JavaScript
+- 🔭 Focus: AI, Systems Engineering, Biomedical Tech
+- ❤️ Interests: Human-Computer Interaction (HCI), Assistive Technology, Mechatronics Systems
 -->
 
 ---
