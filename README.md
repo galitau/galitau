@@ -1,5 +1,5 @@
 ## About
-👋 Heyo, I'm Galit. I work on building AI-driven health tech, mobile productivity tools, and interactive web applications with a focus on Python, C++, and JavaScript.
+👋 Heyo, I'm Galit. I work on building AI-driven health tech, mobile productivity tools, and interactive web applications with a focus on Java, Python, C++, and JavaScript.
 
 🌐 Portfolio: https://galit-portfolio.vercel.app/ | 👔 LinkedIn: www.linkedin.com/in/galit-tauber | 📫 Email: gtauber@uwaterloo.ca
 
